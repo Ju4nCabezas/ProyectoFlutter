@@ -1,7 +1,9 @@
-# ProyectoFlutter
+# SpyBust
 What is this repository for?
 
-    Este repositorio esta hecho para un trabajo de la materia de Electiva Profesional
+    Este repositorio esta hecho para el desarrollo de la aplicación SpyBust, una propuesta para proyecto de grado en la facultad de 
+    Ingenieria de Sistemas de la Unidad Central del Valle del Cauca
+    
 
 Contribution guidelines
 
